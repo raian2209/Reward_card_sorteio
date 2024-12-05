@@ -1,6 +1,6 @@
 let usedNumbers = {'Perguntas': [], 'Planetas': []};
 // const maxNumbers = 5;
-const has_tab = {'Perguntas': 15,'Planetas': 15};
+const has_tab = {'Perguntas': 102,'Planetas': 9};
 const selectOption = document.getElementById('mySelect');
 
 
@@ -29,5 +29,5 @@ console.log(randomNumber);
 }
 
 function call_image(SelectedValue,num){
-    return `${SelectedValue}/${num}.JPG`;
+    return `${SelectedValue}/${num}.jpg`;
 }
