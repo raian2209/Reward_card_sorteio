@@ -1,6 +1,6 @@
-let usedNumbers = {'ANIMAL': [], 'COMIDA': [], 'COR': [], 'FRUTA': [], 'OBJETO': [],'PAÍS':[],'PARTE DO CORPO': [],'PROFISSÃO':[],'QUALIDADE':[],'TRANSPORTE':[],'VERBO':[],'VESTIMENTA':[]};
+let usedNumbers = {'Perguntas': [], 'Planetas': []};
 // const maxNumbers = 5;
-const has_tab = {'ANIMAL': 15, 'COMIDA': 15, 'COR': 15, 'FRUTA': 15, 'OBJETO': 15,'PAÍS': 15,'PARTE DO CORPO': 15,'PROFISSÃO':15,'QUALIDADE':15,'TRANSPORTE':15,'VERBO':15,'VESTIMENTA':15};
+const has_tab = {'Perguntas': 15,'Planetas': 15};
 const selectOption = document.getElementById('mySelect');
 
 
